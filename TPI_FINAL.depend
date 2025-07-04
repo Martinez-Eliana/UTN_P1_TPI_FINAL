@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1751582935 source:c:\users\elian\onedrive\utn\programaci”n i\tpi final oficial\tpi_final\dado12caras.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+
+1751591232 c:\users\elian\onedrive\utn\programaci”n i\tpi final oficial\tpi_final\funciones.h
+	<string>
+
+1751589446 source:c:\users\elian\onedrive\utn\programaci”n i\tpi final oficial\tpi_final\dado6caras.cpp
+	<ctime>
+	"funciones.h"
+	<iostream>
+
+1751583780 source:c:\users\elian\onedrive\utn\programaci”n i\tpi final oficial\tpi_final\funcionesarrays.cpp
+	<iostream>
+	<string>
+	"funciones.h"
+
+1751592601 source:c:\users\elian\onedrive\utn\programaci”n i\tpi final oficial\tpi_final\jugar.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"funciones.h"
+
+1751583811 source:c:\users\elian\onedrive\utn\programaci”n i\tpi final oficial\tpi_final\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	"funciones.h"
+
+1751583821 source:c:\users\elian\onedrive\utn\programaci”n i\tpi final oficial\tpi_final\maximopuntaje.cpp
+	<iostream>
+	"funciones.h"
+
+1751592068 source:c:\users\elian\onedrive\utn\programaci”n i\tpi final oficial\tpi_final\menu.cpp
+	<iostream>
+	"funciones.h"
+
+1751583843 source:c:\users\elian\onedrive\utn\programaci”n i\tpi final oficial\tpi_final\mostrarestadojuego.cpp
+	<iostream>
+	<string>
+	"funciones.h"
+
+1751583851 source:c:\users\elian\onedrive\utn\programaci”n i\tpi final oficial\tpi_final\tirada.cpp
+	"funciones.h"
+	<iostream>
+
+1751589446 source:c:\users\elian\onedrive\utn\programaci”n i\tpi final oficial\tpi_final\volveratras.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+
